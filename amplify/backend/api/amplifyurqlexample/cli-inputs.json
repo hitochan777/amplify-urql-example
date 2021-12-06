@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyurqlexample",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/hitochan/developer/amplify-urql-example/amplify/backend/api/amplifyurqlexample/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifyurqlexamplec03304dc"
+    }
+  }
+}
